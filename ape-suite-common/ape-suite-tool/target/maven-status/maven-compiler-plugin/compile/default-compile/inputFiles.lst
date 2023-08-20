@@ -1,17 +1,14 @@
-<<<<<<< HEAD
+C:\Users\快乐的话\IdeaProjects\ape-suite\ape-suite-common\ape-suite-tool\src\main\java\com\ty\suite\tool\SpringContextUtils.java
 C:\Users\快乐的话\IdeaProjects\ape-suite\ape-suite-common\ape-suite-tool\src\main\java\com\ty\tool\SimpleDateFormatUtils.java
 C:\Users\快乐的话\IdeaProjects\ape-suite\ape-suite-common\ape-suite-tool\src\main\java\com\ty\tool\PinYin4jUtils.java
 C:\Users\快乐的话\IdeaProjects\ape-suite\ape-suite-common\ape-suite-tool\src\main\java\com\ty\tool\SpringContextUtils.java
 C:\Users\快乐的话\IdeaProjects\ape-suite\ape-suite-common\ape-suite-tool\src\main\java\com\ty\tool\HttpUtils.java
 C:\Users\快乐的话\IdeaProjects\ape-suite\ape-suite-common\ape-suite-tool\src\main\java\com\ty\tool\IpUtils.java
-C:\Users\快乐的话\IdeaProjects\ape-suite\ape-suite-common\ape-suite-tool\src\main\java\com\ty\tool\Md5Utils.java
-C:\Users\快乐的话\IdeaProjects\ape-suite\ape-suite-common\ape-suite-tool\src\main\java\com\ty\tool\ExportWordUtil.java
-=======
-C:\Users\快乐的话\IdeaProjects\ape-suite\ape-suite-common\ape-suite-tool\src\main\java\com\ty\suite\tool\SpringContextUtils.java
 C:\Users\快乐的话\IdeaProjects\ape-suite\ape-suite-common\ape-suite-tool\src\main\java\com\ty\suite\tool\ExportWordUtil.java
 C:\Users\快乐的话\IdeaProjects\ape-suite\ape-suite-common\ape-suite-tool\src\main\java\com\ty\suite\tool\Md5Utils.java
 C:\Users\快乐的话\IdeaProjects\ape-suite\ape-suite-common\ape-suite-tool\src\main\java\com\ty\suite\tool\IpUtils.java
 C:\Users\快乐的话\IdeaProjects\ape-suite\ape-suite-common\ape-suite-tool\src\main\java\com\ty\suite\tool\PinYin4jUtils.java
 C:\Users\快乐的话\IdeaProjects\ape-suite\ape-suite-common\ape-suite-tool\src\main\java\com\ty\suite\tool\HttpUtils.java
+C:\Users\快乐的话\IdeaProjects\ape-suite\ape-suite-common\ape-suite-tool\src\main\java\com\ty\tool\ExportWordUtil.java
+C:\Users\快乐的话\IdeaProjects\ape-suite\ape-suite-common\ape-suite-tool\src\main\java\com\ty\tool\Md5Utils.java
 C:\Users\快乐的话\IdeaProjects\ape-suite\ape-suite-common\ape-suite-tool\src\main\java\com\ty\suite\tool\SimpleDateFormatUtils.java
->>>>>>> eb0e8ea (发布前修复bug)

@@ -24,10 +24,6 @@
         <module>ape-suite-hystrix</module>
         <module>ape-suite-ratelimiter</module>
         <module>ape-suite-methodext</module>
-<<<<<<< HEAD
-        <module>ape-suite-es</module>
-=======
->>>>>>> eb0e8ea (发布前修复bug)
         <module>ape-suite-rpc</module>
         <module>ape-suite-dbrouter</module>
         <module>ape-suite-redis</module>
@@ -38,11 +34,7 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
-<<<<<<< HEAD
-                <version>3.8.1</version> <!-- Use the latest version -->
-=======
                 <version>3.1</version> <!-- Use the latest version -->
->>>>>>> eb0e8ea (发布前修复bug)
                 <configuration>
                     <source>8</source>
                     <target>8</target>

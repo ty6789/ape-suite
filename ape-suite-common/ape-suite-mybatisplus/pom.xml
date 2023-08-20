@@ -17,7 +17,6 @@
 
     <dependencies>
         <dependency>
-<<<<<<< HEAD
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-jdbc</artifactId>
         </dependency>
@@ -26,23 +25,18 @@
             <artifactId>druid-spring-boot-starter</artifactId>
         </dependency>
         <dependency>
-=======
->>>>>>> eb0e8ea (发布前修复bug)
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
         </dependency>
         <dependency>
             <groupId>com.baomidou</groupId>
             <artifactId>mybatis-plus-boot-starter</artifactId>
-<<<<<<< HEAD
-=======
             <exclusions>
                 <exclusion>
                     <artifactId>spring-boot-starter-jdbc</artifactId>
                     <groupId>org.springframework.boot</groupId>
                 </exclusion>
             </exclusions>
->>>>>>> eb0e8ea (发布前修复bug)
         </dependency>
     </dependencies>
 

@@ -3,6 +3,36 @@
   <component name="CompilerConfiguration">
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ape-suite-core" />
+        <module name="ape-suite-tool" />
+        <module name="ape-suite-rpc" />
+        <module name="ape-suite-mybatisplus" />
+        <module name="ape-suite-ratelimiter" />
+        <module name="ape-suite-methodext" />
+        <module name="ape-suite-redis" />
+        <module name="ape-suite-hystrix" />
+        <module name="ape-suite-dbrouter" />
+        <module name="ape-suite-whitelist" />
+      </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ape-suite" target="1.5" />
+      <module name="ape-suite-common" target="1.8" />
+      <module name="ape-suite-core" target="1.8" />
+      <module name="ape-suite-dbrouter" target="1.8" />
+      <module name="ape-suite-dependencies" target="1.5" />
+      <module name="ape-suite-hystrix" target="1.8" />
+      <module name="ape-suite-methodext" target="1.8" />
+      <module name="ape-suite-mybatisplus" target="1.8" />
+      <module name="ape-suite-ratelimiter" target="1.8" />
+      <module name="ape-suite-redis" target="1.8" />
+      <module name="ape-suite-rpc" target="1.8" />
+      <module name="ape-suite-tool" target="1.8" />
+      <module name="ape-suite-whitelist" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

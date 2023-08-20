@@ -1,10 +1,7 @@
-<<<<<<< HEAD
 C:\Users\快乐的话\IdeaProjects\ape-suite\ape-suite-common\ape-suite-mybatisplus\src\main\java\com\ty\interceptor\SqlBeautyInterceptor.java
 C:\Users\快乐的话\IdeaProjects\ape-suite\ape-suite-common\ape-suite-mybatisplus\src\main\java\com\ty\entity\PageResult.java
 C:\Users\快乐的话\IdeaProjects\ape-suite\ape-suite-common\ape-suite-mybatisplus\src\main\java\com\ty\config\MybatisConfiguration.java
-C:\Users\快乐的话\IdeaProjects\ape-suite\ape-suite-common\ape-suite-mybatisplus\src\main\java\com\ty\entity\BaseEntity.java
-C:\Users\快乐的话\IdeaProjects\ape-suite\ape-suite-common\ape-suite-mybatisplus\src\main\java\com\ty\handler\MyMetaObjectHandler.java
-=======
 C:\Users\快乐的话\IdeaProjects\ape-suite\ape-suite-common\ape-suite-mybatisplus\src\main\java\com\ty\suite\mybatisplus\interceptor\SqlBeautyInterceptor.java
 C:\Users\快乐的话\IdeaProjects\ape-suite\ape-suite-common\ape-suite-mybatisplus\src\main\java\com\ty\suite\mybatisplus\config\MybatisConfiguration.java
->>>>>>> eb0e8ea (发布前修复bug)
+C:\Users\快乐的话\IdeaProjects\ape-suite\ape-suite-common\ape-suite-mybatisplus\src\main\java\com\ty\entity\BaseEntity.java
+C:\Users\快乐的话\IdeaProjects\ape-suite\ape-suite-common\ape-suite-mybatisplus\src\main\java\com\ty\handler\MyMetaObjectHandler.java

@@ -12,10 +12,6 @@
   <modules>
     <module>ape-suite-common</module>
     <module>ape-suite-dependencies</module>
-<<<<<<< HEAD
-    <module>ape-suite-jar</module>
-=======
     <module>ape-suite-core</module>
->>>>>>> eb0e8ea (发布前修复bug)
   </modules>
 </project>

@@ -1,10 +1,7 @@
-<<<<<<< HEAD
 com\ty\config\MybatisConfiguration.class
 com\ty\handler\MyMetaObjectHandler.class
 com\ty\entity\PageResult.class
 com\ty\interceptor\SqlBeautyInterceptor.class
-com\ty\entity\BaseEntity.class
-=======
 com\ty\suite\mybatisplus\interceptor\SqlBeautyInterceptor.class
+com\ty\entity\BaseEntity.class
 com\ty\suite\mybatisplus\config\MybatisConfiguration.class
->>>>>>> eb0e8ea (发布前修复bug)

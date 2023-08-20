@@ -1,74 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-<<<<<<< HEAD
-    <file url="file://$PROJECT_DIR$/ape-cloud-home/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-cloud-home/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/ape-common-job/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/ape-common-job/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/ape-common-log/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/ape-common-log/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/ape-common-mybatisplus/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/ape-common-mybatisplus/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/ape-common-redis/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/ape-common-redis/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/ape-common-starter/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/ape-common-starter/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/ape-common-swagger/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/ape-common-swagger/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/ape-common-test/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/ape-common-test/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/ape-common-tool/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/ape-common-tool/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/ape-common-web/ape-common-web/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/ape-common-web/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/ape-common-web/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/ape-common-websocket/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/ape-common-websocket/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/db-router-spring-boot-starter/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/db-router-spring-boot-starter/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/door-spring-boot-starter/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/door-spring-boot-starter/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/es-ibatis-spring-boot-starter/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/es-ibatis-spring-boot-starter/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/hystrix-spring-boot-starter/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/hystrix-spring-boot-starter/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/methodext-spring-boot-starter/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/methodext-spring-boot-starter/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/mybatis-spring-boot-starter/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/mybatis-spring-boot-starter/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/mybatis-spring/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/mybatis-spring/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/mybatis/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/mybatis/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/ratelimiter-spring-boot-starter/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/ratelimiter-spring-boot-starter/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/redis-spring-boot-starter/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/redis-spring-boot-starter/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/rpc-spring-boot-starter/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/rpc-spring-boot-starter/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/schedule-spring-boot-starter/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/schedule-spring-boot-starter/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/whitelist-spring-boot-starter/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-common/whitelist-spring-boot-starter/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-dependencies/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-dependencies/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-suite-common/ape-common-mybatisplus/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-suite-common/ape-common-mybatisplus/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-suite-common/ape-common-tool/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-suite-common/ape-common-tool/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-suite-common/ape-suite-db-router/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-suite-common/ape-suite-db-router/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ape-suite-common/ape-suite-dbrouter/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ape-suite-common/ape-suite-dbrouter/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-suite-common/ape-suite-es/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-suite-common/ape-suite-es/src/main/resources" charset="UTF-8" />
-=======
-    <file url="file://$PROJECT_DIR$/ape-suite-common/ape-suite-dbrouter/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-suite-common/ape-suite-dbrouter/src/main/resources" charset="UTF-8" />
->>>>>>> eb0e8ea (发布前修复bug)
     <file url="file://$PROJECT_DIR$/ape-suite-common/ape-suite-hystrix/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ape-suite-common/ape-suite-hystrix/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ape-suite-common/ape-suite-methodext/src/main/java" charset="UTF-8" />
@@ -85,40 +19,11 @@
     <file url="file://$PROJECT_DIR$/ape-suite-common/ape-suite-tool/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ape-suite-common/ape-suite-whitelist/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ape-suite-common/ape-suite-whitelist/src/main/resources" charset="UTF-8" />
-<<<<<<< HEAD
-    <file url="file://$PROJECT_DIR$/ape-suite-common/db-router-spring-boot-starter/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-suite-common/db-router-spring-boot-starter/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-suite-common/es-ibatis-spring-boot-starter/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-suite-common/es-ibatis-spring-boot-starter/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-suite-common/hystrix-spring-boot-starter/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-suite-common/hystrix-spring-boot-starter/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-suite-common/methodext-spring-boot-starter/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-suite-common/methodext-spring-boot-starter/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-suite-common/ratelimiter-spring-boot-starter/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-suite-common/ratelimiter-spring-boot-starter/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-suite-common/rpc-spring-boot-starter/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-suite-common/rpc-spring-boot-starter/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-suite-common/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-suite-common/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-suite-common/whitelist-spring-boot-starter/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-suite-common/whitelist-spring-boot-starter/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-suite-dependencies/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-suite-dependencies/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-suite-jar/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-suite-jar/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-test/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-test/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-user/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ape-user/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
-=======
     <file url="file://$PROJECT_DIR$/ape-suite-common/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ape-suite-common/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ape-suite-core/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ape-suite-core/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ape-suite-dependencies/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ape-suite-dependencies/src/main/resources" charset="UTF-8" />
->>>>>>> eb0e8ea (发布前修复bug)
   </component>
 </project>
