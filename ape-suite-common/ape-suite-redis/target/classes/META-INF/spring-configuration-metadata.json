@@ -1,0 +1,28 @@
+{
+  "groups": [
+    {
+      "name": "redis",
+      "type": "com.ty.suite.redis.config.XRedisProperties",
+      "sourceType": "com.ty.suite.redis.config.XRedisProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "redis.host",
+      "type": "java.lang.String",
+      "sourceType": "com.ty.suite.redis.config.XRedisProperties"
+    },
+    {
+      "name": "redis.password",
+      "type": "java.lang.String",
+      "sourceType": "com.ty.suite.redis.config.XRedisProperties"
+    },
+    {
+      "name": "redis.port",
+      "type": "java.lang.Integer",
+      "sourceType": "com.ty.suite.redis.config.XRedisProperties",
+      "defaultValue": 0
+    }
+  ],
+  "hints": []
+}

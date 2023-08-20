@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+  <groupId>cool.ty666.suite</groupId>
+  <artifactId>ape-suite</artifactId>
+  <version>1.0.0</version>
+  <packaging>pom</packaging>
+  <modelVersion>4.0.0</modelVersion>
+
+  <modules>
+    <module>ape-suite-common</module>
+    <module>ape-suite-dependencies</module>
+<<<<<<< HEAD
+    <module>ape-suite-jar</module>
+=======
+    <module>ape-suite-core</module>
+>>>>>>> eb0e8ea (发布前修复bug)
+  </modules>
+</project>

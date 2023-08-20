@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <parent>
+        <groupId>cool.ty666.suite</groupId>
+        <artifactId>ape-suite-dependencies</artifactId>
+        <version>1.0.0</version>
+        <relativePath/>
+    </parent>
+
+    <groupId>cool.ty666.suite</groupId>
+    <artifactId>ape-suite-common</artifactId>
+    <version>1.0.0</version>
+    <modelVersion>4.0.0</modelVersion>
+    <packaging>pom</packaging>
+    <description>common公用组件包</description>
+
+    <modules>
+        <module>ape-suite-mybatisplus</module>
+        <module>ape-suite-tool</module>
+        <module>ape-suite-whitelist</module>
+        <module>ape-suite-hystrix</module>
+        <module>ape-suite-ratelimiter</module>
+        <module>ape-suite-methodext</module>
+<<<<<<< HEAD
+        <module>ape-suite-es</module>
+=======
+>>>>>>> eb0e8ea (发布前修复bug)
+        <module>ape-suite-rpc</module>
+        <module>ape-suite-dbrouter</module>
+        <module>ape-suite-redis</module>
+    </modules>
+    <build>
+        <plugins>
+            <!-- ... your other plugins ... -->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+<<<<<<< HEAD
+                <version>3.8.1</version> <!-- Use the latest version -->
+=======
+                <version>3.1</version> <!-- Use the latest version -->
+>>>>>>> eb0e8ea (发布前修复bug)
+                <configuration>
+                    <source>8</source>
+                    <target>8</target>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+
+</project>

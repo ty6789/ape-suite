@@ -1,0 +1,8 @@
+com\ty\suite\redis\config\XRedisRegisterAutoConfiguration.class
+com\ty\suite\redis\annotation\XRedis.class
+com\ty\suite\redis\config\XRedisProperties.class
+com\ty\suite\redis\reflect\XRedisFactoryBean.class
+com\ty\suite\redis\config\XRedisRegisterAutoConfiguration$XRedisRegister.class
+com\ty\suite\redis\util\SimpleMetadataReader.class
+META-INF\spring-configuration-metadata.json
+com\ty\suite\redis\config\XRedisRegisterAutoConfiguration$MapperScannerRegistrarNotFoundConfiguration.class

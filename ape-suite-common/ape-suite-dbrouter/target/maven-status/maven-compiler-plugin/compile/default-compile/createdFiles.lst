@@ -1,0 +1,11 @@
+com\ty\suite\db\router\dynamic\DynamicMybatisPlugin.class
+com\ty\suite\db\router\dynamic\DynamicDataSource.class
+com\ty\suite\db\router\config\DataSourceAutoConfig.class
+com\ty\suite\db\router\DBRouterJoinPoint.class
+com\ty\suite\db\router\DBContextHolder.class
+com\ty\suite\db\router\annotation\DBRouterStrategy.class
+com\ty\suite\db\router\DBRouterConfig.class
+com\ty\suite\db\router\util\PropertyUtil.class
+com\ty\suite\db\router\strategy\IDBRouterStrategy.class
+com\ty\suite\db\router\annotation\DBRouter.class
+com\ty\suite\db\router\strategy\impl\DBRouterStrategyHashCode.class

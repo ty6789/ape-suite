@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+<<<<<<< HEAD
+    <mapping directory="$PROJECT_DIR$/ape-suite-common/ape-suite-dbrouter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ape-suite-common/ape-suite-es" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ape-suite-common/ape-suite-hystrix" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ape-suite-common/ape-suite-methodext" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ape-suite-common/ape-suite-ratelimiter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ape-suite-common/ape-suite-redis" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ape-suite-common/ape-suite-rpc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ape-suite-common/ape-suite-whitelist" vcs="Git" />
+=======
+>>>>>>> eb0e8ea (发布前修复bug)
+  </component>
+</project>

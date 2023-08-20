@@ -1,0 +1,5 @@
+com\ty\suite\whitelist\config\WhiteListAutoConfigure.class
+com\ty\suite\whitelist\config\WhiteListProperties.class
+com\ty\suite\whitelist\annotation\DoWhiteList.class
+com\ty\suite\whitelist\DoJoinPoint.class
+META-INF\spring-configuration-metadata.json

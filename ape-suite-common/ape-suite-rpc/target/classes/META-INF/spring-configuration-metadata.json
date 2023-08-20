@@ -1,0 +1,28 @@
+{
+  "groups": [
+    {
+      "name": "rpc.server",
+      "type": "com.ty.suite.rpc.config.ServerProperties",
+      "sourceType": "com.ty.suite.rpc.config.ServerProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "rpc.server.host",
+      "type": "java.lang.String",
+      "sourceType": "com.ty.suite.rpc.config.ServerProperties"
+    },
+    {
+      "name": "rpc.server.password",
+      "type": "java.lang.String",
+      "sourceType": "com.ty.suite.rpc.config.ServerProperties"
+    },
+    {
+      "name": "rpc.server.port",
+      "type": "java.lang.Integer",
+      "sourceType": "com.ty.suite.rpc.config.ServerProperties",
+      "defaultValue": 0
+    }
+  ],
+  "hints": []
+}

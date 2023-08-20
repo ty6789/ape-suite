@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ape-suite.iml" filepath="$PROJECT_DIR$/.idea/ape-suite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ape-suite-common/ape-suite-common.iml" filepath="$PROJECT_DIR$/ape-suite-common/ape-suite-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ape-suite-core/ape-suite-core.iml" filepath="$PROJECT_DIR$/ape-suite-core/ape-suite-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ape-suite-common/ape-suite-dbrouter/ape-suite-dbrouter.iml" filepath="$PROJECT_DIR$/ape-suite-common/ape-suite-dbrouter/ape-suite-dbrouter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ape-suite-dependencies/ape-suite-dependencies.iml" filepath="$PROJECT_DIR$/ape-suite-dependencies/ape-suite-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ape-suite-common/ape-suite-hystrix/ape-suite-hystrix.iml" filepath="$PROJECT_DIR$/ape-suite-common/ape-suite-hystrix/ape-suite-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ape-suite-common/ape-suite-methodext/ape-suite-methodext.iml" filepath="$PROJECT_DIR$/ape-suite-common/ape-suite-methodext/ape-suite-methodext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ape-suite-common/ape-suite-mybatisplus/ape-suite-mybatisplus.iml" filepath="$PROJECT_DIR$/ape-suite-common/ape-suite-mybatisplus/ape-suite-mybatisplus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ape-suite-common/ape-suite-ratelimiter/ape-suite-ratelimiter.iml" filepath="$PROJECT_DIR$/ape-suite-common/ape-suite-ratelimiter/ape-suite-ratelimiter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ape-suite-common/ape-suite-redis/ape-suite-redis.iml" filepath="$PROJECT_DIR$/ape-suite-common/ape-suite-redis/ape-suite-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ape-suite-common/ape-suite-rpc/ape-suite-rpc.iml" filepath="$PROJECT_DIR$/ape-suite-common/ape-suite-rpc/ape-suite-rpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ape-suite-common/ape-suite-tool/ape-suite-tool.iml" filepath="$PROJECT_DIR$/ape-suite-common/ape-suite-tool/ape-suite-tool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ape-suite-common/ape-suite-whitelist/ape-suite-whitelist.iml" filepath="$PROJECT_DIR$/ape-suite-common/ape-suite-whitelist/ape-suite-whitelist.iml" />
+    </modules>
+  </component>
+</project>

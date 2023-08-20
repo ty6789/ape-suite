@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "ty.suite.whitelist",
+      "type": "com.ty.suite.whitelist.config.WhiteListProperties",
+      "sourceType": "com.ty.suite.whitelist.config.WhiteListProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "ty.suite.whitelist.users",
+      "type": "java.lang.String",
+      "sourceType": "com.ty.suite.whitelist.config.WhiteListProperties"
+    }
+  ],
+  "hints": []
+}

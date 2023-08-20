@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+<<<<<<< HEAD
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+=======
+>>>>>>> eb0e8ea (发布前修复bug)
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/ape-common/whitelist-spring-boot-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/ape-common/hystrix-spring-boot-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/ape-common/ratelimiter-spring-boot-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/ape-common/methodext-spring-boot-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/ape-common/es-ibatis-spring-boot-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/ape-common/rpc-spring-boot-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/ape-common/db-router-spring-boot-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/ape-common/redis-spring-boot-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/ape-suite-jar/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/ape-user/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SwUserDefinedSpecifications">
+    <option name="specTypeByUrl">
+      <map />
+    </option>
+  </component>
+=======
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="corretto-11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+>>>>>>> eb0e8ea (发布前修复bug)
+</project>
